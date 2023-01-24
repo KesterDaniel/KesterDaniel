@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KesterDaniel
 - 👀 I’m interested in node.js, express and mongoose
-- 🌱 I’m currently learning python and django
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nodejs, express, mongodb projects
 - 📫 How to reach me kesterdan17@gmail.com
 
