@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on nodejs, express, mongodb projects
 - 📫 How to reach me kesterdan17@gmail.com
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=KesterDaniel)](https://git.io/streak-stats)
+- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KesterDaniel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 KesterDaniel/KesterDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
