@@ -7,6 +7,7 @@
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KesterDaniel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KesterDaniel&count_private=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KesterDaniel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+https://github-profile-trophy.vercel.app/?username=KesterDaniel&theme=onedark
 
 <!---
 KesterDaniel/KesterDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
