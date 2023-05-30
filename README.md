@@ -7,7 +7,7 @@
 
 <img align="right" width="360" height="270" src="./gifs/coder.gif"/>
 
-- 🌱 I’m currently learning and mastering **Python**
+- 🌱 I’m currently learning and mastering **Data Science**
 - 👯 I’m looking to collaborate on **Web development, Data scraping and automation projects**
 - 📫 How to reach me **kesterdan17@gmail.com**
 
